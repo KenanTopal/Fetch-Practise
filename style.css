@@ -1,0 +1,7 @@
+body {
+  background-color: black;
+}
+h1 {
+  filter: drop-shadow(8px 8px 4px #faea10);
+  color: rgb(193, 223, 213);
+}
